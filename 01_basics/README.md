@@ -1,6 +1,6 @@
 # 01_basics
 
-example with home ssr page and /prerender prerendered page
+basic example with home server rendered page and a prerendered page
 
 live demo : https://svelte-basics.netlify.app/
 

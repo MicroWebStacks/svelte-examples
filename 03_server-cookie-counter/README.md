@@ -2,6 +2,8 @@
 
 couter saved as a cookie, fetched, incremented and updated by the server
 
+<img src="../media/03_server-cookie-counter.drawio.svg" width="500">
+
 live demo : https://svelte-cookie-counter.netlify.app/
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/12e511dd-b988-4c8a-a84f-0db3651889e0/deploy-status)](https://svelte-cookie-counter.netlify.app/)

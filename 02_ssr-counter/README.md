@@ -1,8 +1,15 @@
 # 02_ssr-counter
 
-global server counter, keep state on page reload as long as the same instance is running
+global server counter, keep state on page reload as long as the same instance is running. All clients will increment the same counter.
+
+* Project files
 
 <img src="../media/02_ssr-counter.drawio.svg" width="500">
+
+* Dataflow
+
+<img src="../media/02_ssr-counter-dataflow.drawio.svg" width="500">
+
 
 live demo : https://svelte-ssr-counter.netlify.app/
 
