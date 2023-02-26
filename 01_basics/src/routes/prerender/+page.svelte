@@ -1,0 +1,6 @@
+<h1>Svelte Kit Basics - Prerendered Page</h1>
+<p>github project <a href="https://github.com/MicroWebStacks/svelte-examples" target="_blank" rel="nonreferrer">01_basics</a></p>
+
+<p>This page is pre-rendered on the server</p>
+
+<p>go to <a href="/">home</a> page</p>

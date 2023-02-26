@@ -1,2 +1,6 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>Svelte Kit Basics - Home Page</h1>
+<p>github project <a href="https://github.com/MicroWebStacks/svelte-examples" target="_blank" rel="nonreferrer">01_basics</a></p>
+
+<p>This page is rendered on the server</p>
+
+<p>go to <a href="/prerender">prerender</a> page</p>
