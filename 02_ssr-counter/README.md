@@ -1,7 +1,5 @@
-# 01_basics
+# 02_ssr-counter
 
-* adapter-auto
-* example with home ssr page and /prerender prerendered page
+* global server counter, keep state on page reload as long as the same instance is running
 
-deployments:
-* netlify : https://svelte-basics.netlify.app/
+* deployment : https://svelte-ssr-counter.netlify.app/

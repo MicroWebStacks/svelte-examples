@@ -1,7 +1,5 @@
-# 01_basics
+# 03_server-cookie-counter
 
-* adapter-auto
-* example with home ssr page and /prerender prerendered page
+* couter saved as a cookie, fetched, incremented and updated by the server
 
-deployments:
-* netlify : https://svelte-basics.netlify.app/
+* deployment : https://svelte-cookie-counter.netlify.app/
