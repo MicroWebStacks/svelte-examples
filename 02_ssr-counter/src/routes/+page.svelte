@@ -2,7 +2,8 @@
     export let data;
 </script>
 
-<h1>Svelte Kit Basics - Home Page</h1>
+<h1>Svelte Kit - SSR Counter</h1>
+<h2>Home Page</h2>
 <p>github project <a href="https://github.com/MicroWebStacks/svelte-examples/tree/main/02_ssr-counter" target="_blank" rel="nonreferrer">02_ssr-counter</a></p>
 
 <p>This page is rendered on the server</p>
