@@ -3,7 +3,7 @@
 </script>
 
 <h1>Svelte Kit - SSR Counter</h1>
-<h2>Home Page</h2>
+<h2>Page 2</h2>
 <p>github project <a href="https://github.com/MicroWebStacks/svelte-examples/tree/main/02_ssr-counter" target="_blank" rel="nonreferrer">02_ssr-counter</a></p>
 
 <p class="message">The counter value is {data.counter}</p>

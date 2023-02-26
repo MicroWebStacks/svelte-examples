@@ -2,7 +2,7 @@
 <main>
     <nav>
         <a href="/">home</a>
-        <a href="/prerender">prerender</a>
+        <a href="/page2">Page 2</a>
     </nav>
     <div class="content">
         <slot></slot>
@@ -17,6 +17,7 @@
         margin: 2px;
         text-decoration: none;
         color: black;
+        box-shadow: 1px 1px 1px 1px gray;
     }
     a:hover{
         background-color: rgb(210, 210, 210);
