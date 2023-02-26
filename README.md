@@ -22,5 +22,10 @@ community (deno, github, do, bun)
 * adapter-auto
 * example with home ssr page and /prerender prerendered page
 
-deployments:
-* netlify : https://svelte-basics.netlify.app/
+* deployment : https://svelte-basics.netlify.app/
+
+# 02_sse-counter
+
+* global server counter, keep state on page reload as long as the same instance is running
+
+* deployment : https://svelte-ssr-counter.netlify.app/
