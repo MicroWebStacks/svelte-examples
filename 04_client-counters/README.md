@@ -1,6 +1,6 @@
 # 04_client-counters
 
-classical front end Cards counters. Each Card has a counter variable, all client side, resets on page reload
+classical front end Cards counters. Each Card has a counter variable, all client side, resets on page reload, reactive DOM assignment.
 
 live demo : https://svelte-client-counters.netlify.app/
 

@@ -2,8 +2,7 @@
     export let data;
 </script>
 
-<h1>Svelte Kit - cookie counter - Home Page</h1>
-<p>github project <a href="https://github.com/MicroWebStacks/svelte-examples/tree/main/03_server-cookie-counter" target="_blank" rel="nonreferrer">03_server-cookie-counter</a></p>
+<h1>SvelteKit - Server Sent Events counter</h1>
 
 <p class="message">
 The counter value is <span class="counter">{data.counter}</span>

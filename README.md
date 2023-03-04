@@ -58,3 +58,16 @@ live demo : https://svelte-client-counters.netlify.app/
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/MicroWebStacks/svelte-examples/tree/main/04_client-counters)
 [![open in Gitpod](./media/gitpod.svg)](https://gitpod.io/?on=gitpod#https://github.com/MicroWebStacks/svelte-examples/tree/main/04_client-counters)
+
+# 05_sse-counter
+
+SSE: Server Sent Events. global var using a timer and Emitter
+
+Server keeps couter state. Reloading the page has no effect on the counter states which just keeps counting independently
+
+* requires Node18 Node18 for ReadableStream()
+* not serverless compatible
+
+<img src="./media/05_sse-counter.drawio.svg" width="500">
+
+[![open in Gitpod](./media/gitpod.svg)](https://gitpod.io/?on=gitpod#https://github.com/MicroWebStacks/svelte-examples/tree/main/05_sse-counter)

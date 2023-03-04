@@ -1,11 +1,7 @@
 
 <main>
     <nav>
-        <a href="/">
-            <div class="link">home
-            </div>
-        </a>
-        <a href="https://github.com/MicroWebStacks/svelte-examples/tree/main/04_client-counters" target="_blank" rel="nonreferrer">
+        <a href="https://github.com/MicroWebStacks/svelte-examples/tree/main/05_sse-counter" target="_blank" rel="nonreferrer">
             <div class="link github">
                 <img src="/github.png" />
                 <div>github repo</div>
