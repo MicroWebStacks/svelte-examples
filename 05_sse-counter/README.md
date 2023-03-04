@@ -14,7 +14,7 @@ not serverless compatible
 
 * Sequence
 
-<img src="../media/05_sse-counter-dataflow.drawio.svg" width="500">
+<img src="../media/05_sse-counter-sequence.drawio.svg" width="500">
 
 * Project files
 
