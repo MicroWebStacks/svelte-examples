@@ -1,21 +1,6 @@
 # svelte-examples
-examples with svelte
 
-supported auto deployments
-* Cloudflare Pages
-* Netlify
-* Vercel
-* Azure Static Web Apps
-
-adapters
-* adapter-static
-* adapter-node
-* adapter-netlify
-* adapter-cloudflare
-* adapter-cloudflare-workers
-* adapter-vercel
-
-community (deno, github, do, bun)
+Simple examples with Svelte Kit showing common web design patterns, with focus on server and client states management and synchronization.
 
 # 01_basics
 
@@ -65,7 +50,7 @@ live demo : https://svelte-cookie-counter.netlify.app/
 
 # 04_client-counters
 
-classical front end Cards counters. Each Card has a counter variable, all client side, resets on page reload
+classical front end Cards counters. Each Card has a counter variable, all client side, resets on page reload, reactive DOM assignment.
 
 live demo : https://svelte-client-counters.netlify.app/
 
