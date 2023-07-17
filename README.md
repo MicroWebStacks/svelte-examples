@@ -84,3 +84,7 @@ not serverless compatible
 <img src="./media/05_sse-counter.drawio.svg" width="700">
 
 [![open in Gitpod](./media/gitpod.svg)](https://gitpod.io/?on=gitpod#https://github.com/MicroWebStacks/svelte-examples/tree/main/05_sse-counter)
+
+# 06_markdown
+
+simple example with markdown rendering
